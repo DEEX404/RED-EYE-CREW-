@@ -112,7 +112,7 @@ local Button = Tab:CreateButton({
 	end,
 })
 local Button = Tab:CreateButton({
-	Name = "Mukuro Hub (Requires Key)",
+	Name = "Mukuro Hub (COOKIES)",
 	Callback = function()
 		loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
 	end,
